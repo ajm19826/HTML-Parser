@@ -1,0 +1,11 @@
+README.md
+setup.py
+nato_browser/__init__.py
+nato_browser/__main__.py
+nato_browser/main.py
+nato_browser.egg-info/PKG-INFO
+nato_browser.egg-info/SOURCES.txt
+nato_browser.egg-info/dependency_links.txt
+nato_browser.egg-info/entry_points.txt
+nato_browser.egg-info/requires.txt
+nato_browser.egg-info/top_level.txt

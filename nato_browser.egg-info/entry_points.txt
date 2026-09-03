@@ -1,0 +1,4 @@
+[console_scripts]
+nato-browser = nato_browser.main:run_default
+nato-browser-gui = nato_browser.main:run_tkinter
+nato-browser-tui = nato_browser.main:run_textual

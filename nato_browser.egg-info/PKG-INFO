@@ -1,0 +1,26 @@
+Metadata-Version: 2.4
+Name: nato-browser
+Version: 0.5.0
+Summary: ASCII Web Browser for the Terminal
+Author: NATO Browser Team
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Programming Language :: Python :: 3.14
+Requires-Python: >=3.10
+Requires-Dist: requests
+Requires-Dist: pyfiglet
+Requires-Dist: textual
+Requires-Dist: httpx
+Requires-Dist: pillow
+Dynamic: author
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
